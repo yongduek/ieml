@@ -1,7 +1,10 @@
 # IEML
 Introduction to Exploratory Machine Learning
 
-0. Welcome Party
+* Experiments with Muller Guido book
+* Bishop, Pattern Recognition and Machine Learning
+
+### 0. Welcome Party
 
 1. Environment Setup
   - Python 3.7
@@ -33,11 +36,10 @@ Introduction to Exploratory Machine Learning
 6. Bayesian Data Analysis, short intro & problem solving
   - Think Bayes
   
-* Now, experiments with Muller Guido book
 
 7. Supervisded Learning: Regression
 
-8. Well-being Party
+### 8. Well-being Party
 
 9. Supervised Learning: Classification
 
@@ -61,7 +63,8 @@ Introduction to Exploratory Machine Learning
 
 15. Project Show-up
 
-16. Farewell Party
+### 16. Farewell Party
+
 
 
 * Datasets
@@ -73,3 +76,5 @@ Introduction to Exploratory Machine Learning
   - https://www.kaggle.com/c/titanic
   - https://www.kaggle.com/c/digit-recognizer
   
+
+* Still under development
