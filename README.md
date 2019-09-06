@@ -70,6 +70,8 @@ Introduction to Exploratory Machine Learning
 * Datasets
   - IRIS
   - MNIST
+  - Seoul City Public Bike Rental Data (https://data.seoul.go.kr/dataList/datasetView.do?infId=OA-15182&serviceKind=1&srvType=F)
+    - Seoul City Bike Info from data.go.kr: https://www.data.go.kr/dataset/3045310/fileData.do
 
 * Kaggle
   - https://www.kaggle.com/c/bike-sharing-demand/overview
