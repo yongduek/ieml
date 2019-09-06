@@ -66,6 +66,7 @@ Introduction to Exploratory Machine Learning
 ### 16. Farewell Party
 
 
+## Data
 
 * Datasets
   - IRIS
@@ -79,4 +80,4 @@ Introduction to Exploratory Machine Learning
   - https://www.kaggle.com/c/digit-recognizer
   
 
-* Still under development
+## Still under development
