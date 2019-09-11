@@ -13,3 +13,13 @@
   5. 1M trials from binomial distribution with $n=100$ trials and the probability of success $p = 0.3$
   
   
+## 3. CDF (Cumulative distribution function), PDF (Prob. distribution function), PMF (Prob. Mass Function)
+  - https://en.wikipedia.org/wiki/Cumulative_distribution_function
+  
+  1. plot cdf and pdf of Normal (or Gaussian) distribution with ($mean=0$, $\sigma=1$) and ($mean=0$, $\sigma=5$), respectively.
+  2. plot cdf and pdf of uniform distribution $U[0,1]$
+  3. plot cdf and pmf of Bernoulli distribution with $p=0.3$
+  4. plot cdf and pmf of $binomial(n=100, p=0.3)$
+  
+  
+## 
