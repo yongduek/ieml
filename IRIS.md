@@ -8,6 +8,8 @@
     - python data visualization/exploration: https://www.kaggle.com/benhamner/python-data-visualizations
 
 1. Do plotting of your own based on the notebooks in kaggle.com
+    - examine the distribution of the data
+    
 2. What is your answer for the following question?
 
     **Question:** 
