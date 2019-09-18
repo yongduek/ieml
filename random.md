@@ -8,9 +8,13 @@
   1. 1M samples generated from N(0,1)
   2. 1M samples from U(0,1)
   3. 1M discrete samples from U(0,1000) using 'np.randint()'
-  4. 1M samples from Bernoulli distribution with ```$P(X=1) = 0.3$```
-    - the samples composed of two things normally denoted as 0 and 1 (or A and B)
-  5. 1M trials from binomial distribution with `$$n=100$$` trials and the probability of success `$$p = 0.3$$`
+  5. 1M trials from binomial distribution with $n=100$ trials and the probability of success (or head) $p = 0.3$
+    - https://en.wikipedia.org/wiki/Binomial_distribution
+    - `np.random.binomial()`
+  4. 1M samples from Bernoulli distribution with $P(X=1) = 0.3$
+    - https://en.wikipedia.org/wiki/Bernoulli_distribution
+    - the set of samples is composed of two numbers only, 0 and 1 (or A and B).
+    - use `np.random.binomial()`
   
   
 ## 3. CDF (Cumulative distribution function), PDF (Prob. distribution function), PMF (Prob. Mass Function)
