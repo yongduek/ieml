@@ -23,7 +23,10 @@
     - the set of samples is composed of two numbers only, 0 and 1 (or A and B).
     - you can use `np.random.binomial()` or `np.random.uniform()` to generate samples from Bernoulli distribution.
 
-  
+5. (extra) How many times will a fair die land on the same number (e.g. 5) out of 100 trials.
+    - use 'np.random.binomial(n=100, p=1/6., size=N)` to generate the samples.
+    - base event set = { face is 5, face is not 5 }, so it is binary. (the same applies to other numbers each)
+    
 ## 3. CDF (Cumulative distribution function), PDF (Prob. distribution function), PMF (Prob. Mass Function)
 
 - https://en.wikipedia.org/wiki/Cumulative_distribution_function
