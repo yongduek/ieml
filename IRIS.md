@@ -14,8 +14,10 @@
 
     **Question:** 
     1. Write your own method to separate `Iris-setosa` from others?
-        - Explain Verbally & Visually
+        - Explain Verbally & Visually. You don't have to be mathematical!
+        - Make a rule based on your (magnified) inspection on the visualization of the data distribution.
     1. What is your idea of separating out 'Iris-verginica' from others?
+    1. Write down the rules of your invention. Enumerate the the rules sequentially.
     1. From your theory, what is the species for the data [sl, sw, pl, pw] = [5.1, 3.5, 4.1, 1.55] ?
     
     
@@ -23,3 +25,12 @@
 - https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html
 - https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
 - https://www.kaggle.com/chungyehwang/scikit-learn-classifiers-on-iris-dataset
+
+## Reference
+- https://en.wikipedia.org/wiki/Decision_tree_learning
+- https://en.wikipedia.org/wiki/Predictive_analytics
+- https://scikit-learn.org/stable/modules/tree.html
+
+## Related
+- Information Theory (entropy, Gini)
+- Tree Data Structure
