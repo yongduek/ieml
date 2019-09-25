@@ -9,6 +9,8 @@
     - sample generation
     - sample density plot by scatter plot
     - sample mean / sample covariance definition & computation
+        - connect to PCA
+            - 1D data -> 2D embedding -> scatter plot -> noise in y-direction -> rotation (x = R z) -> eigen decomposition -> recover 1D data
     
 1. plt plotting, MATLAB & OO style, scatter plot, histogram
 
