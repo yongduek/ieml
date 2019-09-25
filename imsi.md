@@ -13,10 +13,11 @@
 1. plt plotting, MATLAB & OO style, scatter plot, histogram
 
 1. data exploration & visualization
-
-        - `matplotlib`
-        - datasets in sklearn: https://scikit-learn.org/stable/datasets/index.html
-
+- `matplotlib`
+- datasets in sklearn: https://scikit-learn.org/stable/datasets/index.html
+    - iris
+    - search for a dataset!
+    
 1. information theory
     * Bishop Book Chapter 1.6
         * https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
