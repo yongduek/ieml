@@ -13,3 +13,8 @@
     - sample generation
     - 2D plot for a skewed distribution samples
     - PCA
+
+1. Bayesian primer
+    - sum rule, product rule (Bishop)
+    - fair coin problem
+    
