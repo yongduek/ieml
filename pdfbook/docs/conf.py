@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'ieml'
+project = 'IEML'
 copyright = '2019, Yongduek Seo'
-author = 'Yongduek Seo'
+author = 'Yongduek Seo (yndk@sogang.ac.kr)'
 
 
 # -- General configuration ---------------------------------------------------
