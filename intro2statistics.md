@@ -39,3 +39,4 @@
     - practical application examples are impressive
     - computation needs to be explained during the lecture
     - encourge students to make python codes by themselves instead of using the library
+5. Probability and Statistics, 4th edition, DeGroot and Schervish
