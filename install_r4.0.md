@@ -18,3 +18,23 @@ ii <- is.na(pkgs[, "Priority"])
 pkgs <- pkgs[ii, 1]
 install.packages(pkgs)
 ```
+
+## package libcurl was not found (pkg-config)
+- `libcurl` is not an R package, but a linux package!
+```
+sudo apt-get install libcurl4-openssl-dev
+```
+After this, perform in `R`
+```
+install.package('curl')
+install.package('V8')
+```
+
+## Install RStan from source
+- after `r-cran-v8` errors unsolved, I installed it this way
+```
+install.packages("rstan", type = "source")
+```
+- tested the examples at the following site and worked.
+- Details are in [Installing RStan on Linux](https://github.com/stan-dev/rstan/wiki/Installing-RStan-on-Linux).
+
