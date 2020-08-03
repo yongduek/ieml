@@ -73,3 +73,23 @@ cat("\nCXX14FLAGS=-O3 -march=native -mtune=native",
 install.packages("rstan", repos = "https://cloud.r-project.org/", dependencies = TRUE)
 ```
 1. Try `shools` example in https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started
+
+# ubuntu 18.04 for R 4.0+
+1. 
+``` 
+sudo add-apt-repository ppa:c2d4u.team/c2d4u4.0+
+sudo apt update
+```
+2. 
+``` sudo vi /etc/apt/sources.list ```
+and add
+``` 
+deb https://cloud.r-project.org/bin/linux/ubuntu bionic-cran40/ 
+```
+3. install R 4.0+ version
+```
+sudo apt-get update
+sudo apt-get install r-base
+sudo apt-get install r-base-dev
+```
+4. remove all files in `/usr/local/lib/R/shared...`
